@@ -4,9 +4,11 @@ pyecharts  https://github.com/pyecharts/pyecharts
 
 pyecharts 文档  https://pyecharts.org/#/
 
-echartsjs 实例  https://www.echartsjs.com/examples/
+pyecharts 实例  https://gallery.pyecharts.org/#/
 
-echartsjs 官网  https://www.echartsjs.com/index.html
+echartsjs 实例  https://echarts.apache.org/examples/zh/index.html
+
+echartsjs 官网  https://echartsjs.com/
 
 # 目录
 
