@@ -12,10 +12,16 @@ echartsjs 官网  https://echartsjs.com/
 
 # 目录
 
-1_bar
+1. bar
 
-2_bar_3d
+2. bar_3d
 
-3_echarts点击图表跳转链接
+3. echarts点击图表跳转链接
 
-echarts图表点击图表进行跳转链接 https://blog.csdn.net/weixin_42068855/article/details/89372477
+   echarts图表点击图表进行跳转链接 https://blog.csdn.net/weixin_42068855/article/details/89372477
+
+4. [柱状图与设置](https://github.com/MrCat9/Echarts_Note/blob/master/bar_with_opts.ipynb)
+
+5. [物流数据始发站至目的站运单数热力图（sns.heatmap），桑基图（pyecharts.charts.Sankey）](https://github.com/MrCat9/Echarts_Note/blob/master/sankey_and_heatmap.ipynb)
+
+6. 
